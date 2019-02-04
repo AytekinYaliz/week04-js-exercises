@@ -7,8 +7,13 @@ console.log(result);
 
 // Answer these questions:
 // - What does this program do? Run it and see, or Google some of the methods used ot understand them.
+// it made a single string
 // - How many parameters does the function take?
+//2
 // - What is the function name?
+// s
 // - Where is the function called? with what parameters?
+// 5th row- with 'code' and 'your'
 // - What does the function return?
+// codeyour
 // - How can this function be improved?

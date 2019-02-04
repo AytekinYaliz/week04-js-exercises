@@ -1,4 +1,6 @@
 function concatenate(firstWord, secondWord, thirdWord) {
+    let x = firstWord.concat(secondWord);
+    return x.concat(thirdWord);
     // Write the body of this function to concatenate three words together
 }
 

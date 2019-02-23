@@ -5,7 +5,11 @@
   Sales tax is 20% of the price of the product
 */
 
-function calculateSalesTax() {}
+function calculateSalesTax(value) {
+  //vergi = (price / 100) * 20;
+  //const price = price + vergi;
+  return value * 0.2;
+}
 
 /* DO NOT EDIT BELOW THIS LINE */
 /* --------------------------- */
